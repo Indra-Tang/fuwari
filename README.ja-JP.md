@@ -1,55 +1,25 @@
-# 🍥Fuwari
+# 青年を支配する
 
-[Astro](https://astro.build)で構築された静的ブログテンプレート
+[**🌏中文 README**](./README.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏English README**](./README.en-EN.md)
 
-[**🖥️ライブデモ (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏中文**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏日本語**](https://github.com/saicaca/fuwari/blob/main/README.ja-JP.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**📦旧Hexoバージョン**](https://github.com/saicaca/hexo-theme-vivia)
+このページを直接使用する[若者を制御する](https://kongzhiqingnian.netlify.app/)ことを強くお勧めします。
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+主なリソースはまだこの倉庫の中にあります（資料はpublicフォルダの中にあり、md文書はcontentの中にあります）が、軽量化のために、少量の大きなファイル資料は百度ネットディスクの中に置かれます。
 
-## ✨ 特徴
+## 起源
 
-- [x] [Astro](https://astro.build)及び [Tailwind CSS](https://tailwindcss.com)で構築
-- [x] スムーズなアニメーションとページ遷移
-- [x] ライト/ダークテーマ対応
-- [x] カスタマイズ可能なテーマカラーとバナー
-- [x] レスポンシブデザイン
-- [ ] コメント機能
-- [x] 検索機能
-- [ ] 目次
+昔、謎の人が私を探してきた、kukuは私に圧力をかけて、私に計院と肩を並べるデータベースを作らせた。
 
-## 🚀 使用方法
+私は直接**セボタン星語**回怼：「自分でやる」
 
-1. [テンプレート](https://github.com/saicaca/fuwari/generate)から新しいリポジトリを作成するかCloneをします。
-2. ブログをローカルで編集するには、リポジトリをクローンした後、`pnpm install` と `pnpm add sharp` を実行して依存関係をインストールします。  
-   - [pnpm](https://pnpm.io)がインストールされていない場合は `npm install -g pnpm` で導入可能です。
-3. `src/config.ts`ファイルを編集する事でブログを自分好みにカスタマイズ出来ます。
-4. `pnpm new-post <filename>`で新しい記事を作成し、`src/content/posts/`.フォルダ内で編集します。
-5. 作成したブログをVercel、Netlify、GitHub Pagesなどにデプロイするには[ガイド](https://docs.astro.build/ja/guides/deploy/)に従って下さい。加えて、別途デプロイを行う前に`astro.config.mjs`を編集してサイト構成を変更する必要があります。
+彼は高貴な頭を下げて、携帯電話を見て、龍図を送った。
 
-## ⚙️ 記事のフロントマター
+私は恐れていません。「私はあなたがルドロンではないかと言って、私はしません。あなたは誰かにやってもらいます」。
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: /images/cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
+## 結末
 
-## 🧞 コマンド
+「ルドゥロン」の3文字は彼の竜族の身分を突き破って、彼は一瞬にして包皮竜になって、私に火を噴いた。
 
-すべてのコマンドは、ターミナルでプロジェクトのルートから実行する必要があります:
+炎の灼熱に迫られて、私は仕方なくこの天下をコントロールするウェブサイトを作りました。
 
-| Command                             | Action                                           |
-|:------------------------------------|:-------------------------------------------------|
-| `pnpm install` AND `pnpm add sharp` | 依存関係のインストール                           |
-| `pnpm dev`                          | `localhost:4321`で開発用ローカルサーバーを起動      |
-| `pnpm build`                        | `./dist/`にビルド内容を出力          |
-| `pnpm preview`                      | デプロイ前の内容をローカルでプレビュー     |
-| `pnpm new-post <filename>`          | 新しい投稿を作成                                |
-| `pnpm astro ...`                    | `astro add`, `astro check`の様なコマンドを実行する際に使用 |
-| `pnpm astro --help`                 | Astro CLIのヘルプを表示                     |
+しかし、私も喜んでいます。誰が**望子成龍**の願いをかなえて喜んでいるのではないでしょうか。——2024.7.7.17:00

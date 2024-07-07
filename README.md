@@ -1,55 +1,25 @@
-# 🍥Fuwari
+# 控制青年
 
-A static blog template built with [Astro](https://astro.build).
+[**🌏English README**](./README.en-EN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏日本語 README**](./README.ja-JP.md)
 
-[**🖥️Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏中文 README**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏日本語 README**](https://github.com/saicaca/fuwari/blob/main/README.ja-JP.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**📦Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)
+强烈建议直接使用[控制青年](https://kongzhiqingnian.netlify.app/)该网页查看。
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+主要资源还是在这个仓库当中的(资料在public文件夹中，md文档在content中)，但为了轻量化，少量大文件资料会放在百度网盘中。
 
-## ✨ Features
+## 起源
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [ ] Comments
-- [x] Search
-- [ ] TOC
+很久以前，有个叫神秘人士找上了我，kuku压力我，让我搞一个和计院比肩的资料库。
 
-## 🚀 How to Use
+我直接**赛博坦星语**回怼：“要做你自己做去。”
 
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.  
-   - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment. 
+他低下了高贵的头颅，看向手机，发了一张龙图。
 
-## ⚙️ Frontmatter of Posts
+我没有害怕：“我说你是不是尔多龙啊，我不做，你找人去做。”
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: /images/cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
+## 结局
 
-## 🧞 Commands
+“尔多龙”三个字戳穿他龙族的身份，他歪嘴一笑，瞬间变形成一条宝批龙，向我喷火。
 
-All commands are run from the root of the project, from a terminal:
+为解燃眉之急，我万分无奈地制作了这个控制青年网站。
 
-| Command                             | Action                                           |
-|:------------------------------------|:-------------------------------------------------|
-| `pnpm install` AND `pnpm add sharp` | Installs dependencies                            |
-| `pnpm dev`                          | Starts local dev server at `localhost:4321`      |
-| `pnpm build`                        | Build your production site to `./dist/`          |
-| `pnpm preview`                      | Preview your build locally, before deploying     |
-| `pnpm new-post <filename>`          | Create a new post                                |
-| `pnpm astro ...`                    | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro --help`                 | Get help using the Astro CLI                     |
+但我也很欣慰，谁不会为**望子成龙**得偿所愿而高兴呢？ ——2024.7.7.17:00
